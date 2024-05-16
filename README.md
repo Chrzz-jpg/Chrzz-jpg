@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Christian Roos</h1>
-<h2 align="center">A passionate fullstack developer from Brazil</h2>
+<h1 align="center">Hi 👋, I'm Christian Roos </h1>
+<h5 align="center"><em>A passionate fullstack developer from Brazil</em></h5>
  
 - 🔭 I’m currently working on [FCS - Fluxo de Caixa Simples](https://fluxodecaixasimples.com.br/)
   - [💻Desktop App](https://app.fluxodecaixasimples.com.br/)
