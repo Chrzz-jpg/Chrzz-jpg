@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian Roos</h1>
 <h2 align="center">A passionate fullstack developer from Brazil</h2>
-
+ 
 - 🔭 I’m currently working on [FCS - Fluxo de Caixa Simples](https://fluxodecaixasimples.com.br/)
-
+  - [💻Desktop App](https://app.fluxodecaixasimples.com.br/)
+  - [📱 Mobile App](https://play.google.com/store/apps/details?id=br.com.fluxodecaixasimples.app.twa&pli=1)
 - 📫 How to reach me **chrisroos.dev@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
@@ -48,6 +49,6 @@
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrzz-jpg&show_icons=true&locale=en&layout=compact" alt="chrzz-jpg" /></p>
+<p><img align="left" src="https://github-readme-stats-omega-one-38.vercel.app/api/top-langs?username=chrzz-jpg&show_icons=true&locale=en&layout=compact" alt="chrzz-jpg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrzz-jpg&show_icons=true&locale=en" alt="chrzz-jpg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-omega-one-38.vercel.app/api?username=chrzz-jpg&show_icons=true&locale=en" alt="chrzz-jpg" /></p>
