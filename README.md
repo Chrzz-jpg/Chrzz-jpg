@@ -1,4 +1,4 @@
-![image](https://github.com/Chrzz-jpg/Chrzz-jpg/assets/48861422/5a5988a6-bc6e-4504-baf4-44aa43971a40)<h1 align="center">Hi 👋, I'm Christian Roos </h1>
+<h1 align="center">Hi 👋, I'm Christian Roos </h1>
 <h5 align="center"><em>A passionate fullstack developer from Brazil</em></h5>
  
 - 🔭 I’m currently working on [FCS - Fluxo de Caixa Simples](https://fluxodecaixasimples.com.br/)
