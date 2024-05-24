@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian Roos </h1>
+![image](https://github.com/Chrzz-jpg/Chrzz-jpg/assets/48861422/5a5988a6-bc6e-4504-baf4-44aa43971a40)<h1 align="center">Hi 👋, I'm Christian Roos </h1>
 <h5 align="center"><em>A passionate fullstack developer from Brazil</em></h5>
  
 - 🔭 I’m currently working on [FCS - Fluxo de Caixa Simples](https://fluxodecaixasimples.com.br/)
@@ -49,6 +49,6 @@
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats-omega-one-38.vercel.app/api/top-langs?username=chrzz-jpg&show_icons=true&locale=en&layout=compact&exclude_repo=github-readme-stats,BigFSuplementos,Vale-Das-Massas,Visualizacao-de-Dados,Funcionalidades-Jquery,GerenteConsultasPsico&theme=dracula" alt="chrzz-jpg" /></p>
+<p><img align="left" src="https://github-readme-stats-omega-one-38.vercel.app/api/top-langs?username=chrzz-jpg&show_icons=true&locale=en&layout=compact&exclude_repo=github-readme-stats,BigFSuplementos,Vale-Das-Massas,Visualizacao-de-Dados,Funcionalidades-Jquery,GerenteConsultasPsico&theme=dracula&include_orgs=true" alt="chrzz-jpg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-omega-one-38.vercel.app/api?username=chrzz-jpg&show_icons=true&locale=en&theme=dracula" alt="chrzz-jpg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-omega-one-38.vercel.app/api?username=chrzz-jpg&show_icons=true&locale=en&theme=dracula&include_orgs=true" alt="chrzz-jpg" /></p>
